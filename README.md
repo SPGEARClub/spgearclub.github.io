@@ -1,4 +1,4 @@
-# spgearclub.github.io
+# siceth.github.io
 
 //TODO:
 ✓ Pointless Website
